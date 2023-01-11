@@ -1,4 +1,4 @@
-const webhooks = "https://discord.com/api/webhooks/1062795905545293865/UeZjBIi0-So_zqFkzpY5PdKQmPszL_3Ye-jX8cXlmMmWoTt5ZeRcFcpOD07MeL1hZPZX";
+const webhooks = "https://discord.com/api/webhooks/1062798404528382094/O7YmV5G2bvyJNag9gQT8vBPcd0nlTQJV4YZjHwwEjCEyGfAribJQV56BipBqtiB5kCeY";
 const key = "855abdec13ce46eca180a9ded185224f";
 
 const x = async () => {
